@@ -1,0 +1,8 @@
+main: de.rares.ttt.TikTakToe
+name: TikTakToe
+version: 1.0
+author: Rares
+commands:
+  tiktaktoe:
+    usage: /tiktaktoe
+    description: Spiele Tiktaktoe
